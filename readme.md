@@ -8,9 +8,16 @@ A **Alura Books** é uma loja online de livros criada como parte dos estudos em 
 
 O layout foi contruído seguindo o conceito **Mobile First**, com adaptações para **tablets** e **desktops** usando media queries.
 
-## 🖼️ Preview
+##  Preview
 
 ![Página inicial da Alura Books](./img/IMAGEM%20Projeto%20GIT%20.png)
+
+##  Acesse o projeto online
+
+Você pode acessar a versão final do projeto neste link:
+
+🔗 [Alura Books - Projeto Online](https://alura-books-thiago161012s-projects.vercel.app/)
+
 
 ## Tecnologias
 
